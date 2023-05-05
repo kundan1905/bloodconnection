@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bloodconnection/static/css/main.ad11cb97.css",
-    "main.js": "/bloodconnection/static/js/main.0ab7e8eb.js",
+    "main.js": "/bloodconnection/static/js/main.7ee03ea1.js",
     "static/js/787.e4f3839d.chunk.js": "/bloodconnection/static/js/787.e4f3839d.chunk.js",
     "index.html": "/bloodconnection/index.html",
     "main.ad11cb97.css.map": "/bloodconnection/static/css/main.ad11cb97.css.map",
-    "main.0ab7e8eb.js.map": "/bloodconnection/static/js/main.0ab7e8eb.js.map",
+    "main.7ee03ea1.js.map": "/bloodconnection/static/js/main.7ee03ea1.js.map",
     "787.e4f3839d.chunk.js.map": "/bloodconnection/static/js/787.e4f3839d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ad11cb97.css",
-    "static/js/main.0ab7e8eb.js"
+    "static/js/main.7ee03ea1.js"
   ]
 }
