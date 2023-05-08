@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/bloodconnection/static/css/main.ad11cb97.css",
-    "main.js": "/bloodconnection/static/js/main.7ee03ea1.js",
+    "main.css": "/bloodconnection/static/css/main.e7f9fcf7.css",
+    "main.js": "/bloodconnection/static/js/main.1d822b3f.js",
     "static/js/787.e4f3839d.chunk.js": "/bloodconnection/static/js/787.e4f3839d.chunk.js",
+    "static/media/imageperson1.jpg": "/bloodconnection/static/media/imageperson1.45887cccf59f1f6af5df.jpg",
     "index.html": "/bloodconnection/index.html",
-    "main.ad11cb97.css.map": "/bloodconnection/static/css/main.ad11cb97.css.map",
-    "main.7ee03ea1.js.map": "/bloodconnection/static/js/main.7ee03ea1.js.map",
+    "main.e7f9fcf7.css.map": "/bloodconnection/static/css/main.e7f9fcf7.css.map",
+    "main.1d822b3f.js.map": "/bloodconnection/static/js/main.1d822b3f.js.map",
     "787.e4f3839d.chunk.js.map": "/bloodconnection/static/js/787.e4f3839d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad11cb97.css",
-    "static/js/main.7ee03ea1.js"
+    "static/css/main.e7f9fcf7.css",
+    "static/js/main.1d822b3f.js"
   ]
 }
